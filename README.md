@@ -24,4 +24,4 @@ Diese gibt Auskunft über...
 - Allgemeine Werte verschiedener Internetanbietern
 
 ## Einstellungen
-- Origin-Einstellungen
+- Pfad zu Origin.exe
